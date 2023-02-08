@@ -23,7 +23,7 @@ def main():
 
         # Write the response to a text file
         with open("output.txt", "a") as f:
-            f.write(response.text)
+            f.write(response.text + "\n")
 
 if __name__ == "__main__":
     main()
