@@ -1,11 +1,11 @@
-## GET Request with Incrementing Parameter
-#### This script sends GET requests to a URL with an incrementing parameter. The response of each request is written to a text file.
+# GET Request with Incrementing Parameter
+This script sends GET requests to a URL with an incrementing parameter. The response of each request is written to a text file.
 
-### Requirements
+## Requirements
 - Python 3
 - requests library
 
-### How to Run
+## How to Run
 - Clone the repository or download the main.py file.
 - Install the required library.
 ```sh
